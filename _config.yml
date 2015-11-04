@@ -1,0 +1,23 @@
+name: stevenmarx.com
+favicon: null
+layout_spectrum: 0.8648872445337474
+typography_spectrum: 0.3369471631012857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4915527307894081
+  lightness: 0.3178902941290289
+  saturation: 0.41528351069428027
+  rhythmicContrast: 0.6116005971562117
+purpose: []
