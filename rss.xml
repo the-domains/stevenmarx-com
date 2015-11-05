@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[stevenmarx.com]]></title>
         <description><![CDATA[stevenmarx.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stevenmarx-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 20:48:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 Nov 2015 20:52:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stevenmarx-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[stevenmarx.com's Brand New Fancy AI Website]]></title>
-            <description><![CDATA[<article><h1>stevenmarx.com's Brand New Fancy AI Website</h1><p>Welcome to stevenmarx.com's fancy new website</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3659b2b7-76b1-43f9-9566-d80f1c90af22.jpg"></article>]]></description>
-            <link>undefinedstevenmarxcoms-brand-new-fancy-ai-website/index.html</link>
+            <description><![CDATA[<article><h1>stevenmarx.com's Brand New Fancy AI Website</h1><p>Welcome to stevenmarx.com's fancy new website</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86af0cfb-8958-438a-8c88-920189383c01.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stevenmarx-com/stevenmarxcoms-brand-new-fancy-ai-website/index.html</link>
             <guid isPermaLink="false">e28c185e-124a-49d3-9a94-1f83c72f0e0b</guid>
-            <pubDate>Thu, 05 Nov 2015 20:48:25 GMT</pubDate>
+            <pubDate>Thu, 05 Nov 2015 20:52:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
