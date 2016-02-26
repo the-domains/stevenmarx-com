@@ -6,11 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to the new website of stevenmarx.com. Built using a new tool designed to make websites cooler and better, we'll see how it goes."
-datePublished: '2015-11-05T20:52:34.951Z'
-dateModified: '2015-11-05T20:52:07.200Z'
+datePublished: '2016-02-26T00:37:37.361Z'
+dateModified: '2016-02-26T00:19:56.725Z'
 title: "stevenmarx.com's Brand New Fancy AI Website"
 sourcePath: _posts/2015-11-05-stevenmarxcoms-brand-new-fancy-ai-website.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -21,8 +22,6 @@ url: stevenmarxcoms-brand-new-fancy-ai-website/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86af0cfb-8958-438a-8c88-920189383c01.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da260d55-17e8-42af-af59-cf48125f5e32.png)
 
-Welcome to stevenmarx.com's fancy new website
-
-Same great service, fancy new website design tool.
+stevenmarx.com is your home for professional and affordable **website design & development  in Peoria and central Illinois. Standards-based website design and development, mobile ready sites, hosting, social media integration and search engine optimization (SEO) are all standard. Whether you're looking for a website redesign or something brand new, stevenmarx.com can provide a site that suits your needs.**
