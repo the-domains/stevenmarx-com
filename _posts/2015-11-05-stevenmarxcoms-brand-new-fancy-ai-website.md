@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to the new website of stevenmarx.com. Built using a new tool designed to make websites cooler and better, we'll see how it goes."
-datePublished: '2016-02-26T00:42:31.238Z'
-dateModified: '2016-02-26T00:38:36.188Z'
-title: "stevenmarx.com's Brand New Fancy AI Website"
+datePublished: '2016-02-26T00:46:19.287Z'
+dateModified: '2016-02-26T00:45:51.459Z'
+title: 'stevenmarx.com website, videography & multimedia services'
 sourcePath: _posts/2015-11-05-stevenmarxcoms-brand-new-fancy-ai-website.md
 published: true
 author: []
